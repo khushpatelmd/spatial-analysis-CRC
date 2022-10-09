@@ -27,12 +27,17 @@
 
 # Sample plots (Refer to full paper for the description)
 
-1. ![Standardized Incidence Ratio](images/SIR.png)
+![Standardized Incidence Ratio](images/SIR.png)
 
-2. 
+![Rook vs Queen neighbor links](images/rook.png)
 
+![Moran scatterplot](images/Moran.png)
 
+![Moran statistic mapped at county level](images/local_Moran.png)
 
+![LISA](images/LISA.png)
+
+![Relative Risk](images/relative_risk.png)
 
 
 
