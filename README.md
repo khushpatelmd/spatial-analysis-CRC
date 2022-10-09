@@ -25,6 +25,14 @@
 
 <hr />
 
+# Research paper by Khush Patel
+
+![Full research paper](images/Spatial_analysis_Khush_Patel.pdf)
+
+
+
+
+
 # Sample plots (Refer to full paper for the description)
 
 ![Standardized Incidence Ratio](images/SIR.png)
