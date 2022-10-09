@@ -15,16 +15,20 @@
 
 <hr />
 
-<hr />
-
 # Table Of Contents
 -  [Sample plots](#Sample-plots)
+-  [Paper](#Paper)
 -  [How to run the code](#How-to-run)
 -  [Code structure](#Code-structure)
 -  [Requirements](#Requirements)
 -  [How to cite](#How-to-cite)
 
 <hr />
+
+# Sample plots
+
+
+
 
 
 
