@@ -54,6 +54,7 @@
 
 # Requirements
 
+```
 classInt 0.4-8
 dplyr 1.0.10
 grid 4.2.1
@@ -68,5 +69,6 @@ tidyverse 1.3.2
 spdep 1.2-7
 spgwr 0.6-35
 tmap 3.3-3
+```
 
 <hr />
