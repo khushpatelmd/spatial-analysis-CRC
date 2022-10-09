@@ -85,6 +85,17 @@ tmap 3.3-3
 # How to cite 
 This repository is a research work in progress. Please contact author (drpatelkhush@gmail.com) for details on reuse of code.
 
+# References
+
+1. Colorectal Cancer Statistics | How Common Is Colorectal Cancer? https://www.cancer.org/cancer/colon-rectal-cancer/about/key-statistics.html. Accessed 2 May 2021.
+
+2. Colorectal Cancer, United States—2007–2016 | CDC. 2020. https://www.cdc.gov/cancer/uscs/about/data-briefs/no16-colorectal-cancer-2007-2016.htm. Accessed 17 Mar 2021.
+
+3. Doubeni CA, Major JM, Laiyemo AO, Schootman M, Zauber AG, Hollenbeck AR, et al. Contribution of behavioral risk factors and obesity to socioeconomic differences in colorectal cancer incidence. J Natl Cancer Inst. 2012;104:1353–62.
+
+4. Rodriguez N, Smith J. The Association Between Education and Colorectal Cancer Screening among United States Veterans Aged 50-75 Years Old: 286. Off J Am Coll Gastroenterol ACG. 2016;111:S134.
+
+5. Crookes DM, Njoku O, Rodriguez MC, Mendez EI, Jandorf L. Promoting colorectal cancer screening through group education in community-based settings. J Cancer Educ Off J Am Assoc Cancer Educ. 2014;29:296–303.
 
 
 
