@@ -17,10 +17,9 @@
 
 # Table Of Contents
 -  [Paper](#Paper)
--  [Sample plots](#Sample-plots)
--  [How to run the code](#How-to-run-the-code)
--  [Code structure](#Code-structure)
 -  [Requirements](#Requirements)
+-  [Code structure](#Code-structure)
+-  [Sample plots](#Sample-plots)
 -  [How to cite](#How-to-cite)
 
 <hr />
@@ -28,6 +27,45 @@
 # Research paper
 
 [Full research paper](images/Spatial_analysis_Khush_Patel.pdf)
+
+
+<hr />
+
+# Requirements
+
+```
+classInt 0.4-8
+dplyr 1.0.10
+grid 4.2.1
+gridExtra 2.3
+INLA 22.05.07
+maptools 1.1-4
+RColorBrewer 1.1-3
+rgdal 1.5-32
+readxl 1.4.1
+rgeos 0.5-9
+tidyverse 1.3.2
+spdep 1.2-7
+spgwr 0.6-35
+tmap 3.3-3
+```
+
+<hr />
+
+# Code structure
+```
+├──  Main code
+│    └── code_spatial_analysis.py - R script for complete analysis
+│
+├──  data  
+│    └── unimputed_data.csv - County level colorectal cancer incidence data for Texas were obtained for the years 2009 to 2018 were obtained from the Texas Cancer     Registry, Cancer Epidemiology and Surveillance Branch, Texas Department of State Health Services 
+│    └── dataset_for_modeling_imputed.csv - Imputed, cleaned dataset. Data imputation using machine learning model based on bayesian ridge regression
+│
+
+
+
+
+
 
 <hr />
 
@@ -52,23 +90,4 @@
 
 
 
-# Requirements
 
-```
-classInt 0.4-8
-dplyr 1.0.10
-grid 4.2.1
-gridExtra 2.3
-INLA 22.05.07
-maptools 1.1-4
-RColorBrewer 1.1-3
-rgdal 1.5-32
-readxl 1.4.1
-rgeos 0.5-9
-tidyverse 1.3.2
-spdep 1.2-7
-spgwr 0.6-35
-tmap 3.3-3
-```
-
-<hr />
