@@ -26,7 +26,7 @@
 
 # Research paper
 
-[Full research paper](images/Spatial_analysis_Khush_Patel.pdf)
+[Full research paper](images/Spatial_Analysis_Khush_Patel.pdf)
 
 
 <hr />
