@@ -14,3 +14,17 @@
 **Conclusion**: Colorectal cancer incidence showed significant autocorrelation amongst the county. County smoking data was significantly associated with Colorectal cancer incidence. 
 
 <hr />
+
+<hr />
+
+# Table Of Contents
+-  [Sample plots](#Sample-plots)
+-  [How to run the code](#How-to-run)
+-  [Code structure](#Code-structure)
+-  [Requirements](#Requirements)
+-  [How to cite](#How-to-cite)
+
+<hr />
+
+
+
