@@ -16,9 +16,9 @@
 <hr />
 
 # Table Of Contents
--  [Sample plots](#Sample-plots)
 -  [Paper](#Paper)
--  [How to run the code](#How-to-run)
+-  [Sample plots](#Sample-plots)
+-  [How to run the code](#How-to-run-the-code)
 -  [Code structure](#Code-structure)
 -  [Requirements](#Requirements)
 -  [How to cite](#How-to-cite)
@@ -29,9 +29,7 @@
 
 [Full research paper](images/Spatial_analysis_Khush_Patel.pdf)
 
-
-
-
+<hr />
 
 # Sample plots (Refer to full paper for the description)
 
@@ -47,5 +45,24 @@
 
 ![Relative Risk](images/relative_risk.png)
 
+<hr />
+
+#How to run the code
 
 
+
+
+# Requirements
+
+classInt 0.4-8
+dplyr 1.0.10
+INLA 22.05.07
+maptools 1.1-4
+RColorBrewer 1.1-3
+rgdal 1.5-32
+readxl 1.4.1
+tidyverse 1.3.2
+spdep 1.2-7
+tmap 3.3-3
+
+<hr />
