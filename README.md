@@ -27,7 +27,7 @@
 
 # Sample plots (Refer to full paper for the description)
 
-1. [Standardized Incidence Ratio](images/SIR.png)
+1. ![Standardized Incidence Ratio](images/SIR.png)
 
 2. 
 
