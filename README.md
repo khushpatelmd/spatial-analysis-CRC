@@ -59,8 +59,8 @@ tmap 3.3-3
 │
 ├──  data  
 │    └── unimputed_data.csv - County level colorectal cancer incidence data for Texas were obtained for the years 2009 to 2018 were obtained from the Texas Cancer     Registry, Cancer Epidemiology and Surveillance Branch, Texas Department of State Health Services 
-│    └── dataset_for_modeling_imputed.csv - Imputed, cleaned dataset. Data imputation using machine learning model based on bayesian ridge regression
-│    └──shapefiles for plotting - .dbf, .prj, .shp, .shx
+     └── dataset_for_modeling_imputed.csv - Imputed, cleaned dataset. Data imputation using machine learning model based on bayesian ridge regression
+     └──shapefiles for plotting - .dbf, .prj, .shp, .shx
 
 ```
 
