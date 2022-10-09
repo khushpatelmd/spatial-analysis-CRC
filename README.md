@@ -56,13 +56,17 @@
 
 classInt 0.4-8
 dplyr 1.0.10
+grid 4.2.1
+gridExtra 2.3
 INLA 22.05.07
 maptools 1.1-4
 RColorBrewer 1.1-3
 rgdal 1.5-32
 readxl 1.4.1
+rgeos 0.5-9
 tidyverse 1.3.2
 spdep 1.2-7
+spgwr 0.6-35
 tmap 3.3-3
 
 <hr />
