@@ -25,7 +25,7 @@
 
 <hr />
 
-# Research paper by Khush Patel
+# Research paper
 
 [Full research paper](images/Spatial_analysis_Khush_Patel.pdf)
 
