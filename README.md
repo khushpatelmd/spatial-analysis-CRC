@@ -55,7 +55,7 @@ tmap 3.3-3
 # Code structure
 ```
 ├──  Main code
-│    └── code_spatial_analysis.py - R script for complete analysis
+│    └── code_spatial_analysis.R - R script for complete analysis
 │
 ├──  data  
      └── unimputed_data.csv - County level colorectal cancer incidence data for Texas were obtained for the years 2009 to 2018 were obtained from the Texas Cancer     Registry, Cancer Epidemiology and Surveillance Branch, Texas Department of State Health Services 
