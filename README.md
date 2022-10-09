@@ -64,8 +64,6 @@ tmap 3.3-3
 
 ```
 
-
-
 <hr />
 
 # Sample plots (Refer to full paper for the description)
@@ -84,7 +82,8 @@ tmap 3.3-3
 
 <hr />
 
-#How to run the code
+# How to cite 
+This repository is a research work in progress. Please contact author (drpatelkhush@gmail.com) for details on reuse of code.
 
 
 
